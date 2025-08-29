@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Introduction to JavaScript",
+    "slug": "introduction-to-javascript",
+    "content": "JavaScript is a powerful scripting language used in web development to create interactive experiences.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Learn the basics of JavaScript, the language of the web.","author": "John Doe","tags": [
+      "JavaScript",
+      "Web",
+      "Programming"
+    ],
+    "category": "Programming",
+    "coverImage": "/images/js.jpg",
+    "isFeatured": true,
+    "views": 100,
+    "owner": "64b7a6d7fa2b8f001e3b1001",
+    "createdAt": "2025-06-18T10:00:00.000Z"
+  },
+  {
+    "title": "Understanding React Components",
+    "slug": "understanding-react-components",
+    "content": "React components allow you to break the UI into independent, reusable pieces.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Explore React components and how they build modern interfaces.",
+    "author": "Jane Smith",
+    "tags": [
+      "React",
+      "Frontend",
+      "UI"
+    ],
+    "category": "Frontend",
+    "coverImage": "/images/react.jpg",
+    "isFeatured": false,
+    "views": 80,
+    "owner": "64b7a6d7fa2b8f001e3b1002",
+    "createdAt": "2025-06-17T09:30:00.000Z"
+  },
+  {
+    "title": "CSS Grid Layout",
+    "slug": "css-grid-layout",
+    "content": "CSS Grid is a powerful layout system available in CSS.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Master CSS Grid to create flexible web layouts.","author": "Emily Chen","tags": [
+      "CSS",
+      "Grid",
+      "Web Design"
+    ],
+    "category": "Design",
+    "coverImage": "/images/cssgrid.jpg",
+    "isFeatured": false,
+    "views": 60,
+    "owner": "64b7a6d7fa2b8f001e3b1003",
+    "createdAt": "2025-06-16T11:45:00.000Z"
+  },
+  {
+    "title": "What is Node.js?",
+    "slug": "what-is-node-js",
+    "content": "Node.js is a runtime environment for executing JavaScript on the server side.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Dive into the world of server-side development with Node.js.",
+    "author": "Arjun Patel",
+    "tags": [
+      "Node.js",
+      "Backend"
+    ],
+    "category": "Backend",
+    "coverImage": "/images/node.jpg",
+    "isFeatured": false,
+    "views": 75,
+    "owner": "64b7a6d7fa2b8f001e3b1004",
+    "createdAt": "2025-06-15T08:15:00.000Z"
+  },
+  {
+    "title": "Deploying to Vercel",
+    "slug": "deploying-to-vercel",
+    "content": "Learn how to deploy your frontend applications using Vercel.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Quick deployment guide using Vercel.","author": "Sara Khan","tags": [
+      "Deployment",
+      "Vercel"
+    ],
+    "category": "DevOps",
+    "coverImage": "/images/vercel.jpg",
+    "isFeatured": true,
+    "views": 110,
+    "owner": "64b7a6d7fa2b8f001e3b1005",
+    "createdAt": "2025-06-14T13:00:00.000Z"
+  }
+    {
+    "title": "Mastering Git Basics",
+    "slug": "mastering-git-basics",
+    "content": "Git is a version control system that tracks code changes.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "A beginner's guide to version control with Git.","author": "Leena Roy","tags": [
+      "Git",
+      "Version Control"
+    ],
+    "category": "Tools",
+    "coverImage": "/images/git.jpg",
+    "isFeatured": false,
+    "views": 95,
+    "owner": "64b7a6d7fa2b8f001e3b1006",
+    "createdAt": "2025-06-13T12:00:00.000Z"
+  },
+  {
+    "title": "Building REST APIs",
+    "slug": "building-rest-apis",
+    "content": "REST APIs allow communication between client and server.",
+    "excerpt": "Build efficient REST APIs with Express.js.",
+    "author": "Michael Roy",
+    "tags": [
+      "API",
+      "Express.js",
+      "Backend"
+    ],
+    "category": "Backend",
+    "coverImage": "/images/api.jpg",
+    "isFeatured": false,
+    "views": 150,
+    "owner": "64b7a6d7fa2b8f001e3b1007",
+    "createdAt": "2025-06-12T16:45:00.000Z"
+  },
+  {
+    "title": "SEO Optimization Tips",
+    "slug": "seo-optimization-tips",
+    "content": "SEO improves your site's visibility in search engines.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Top tips to enhance SEO for your site.","author": "Nina Joseph","tags": [
+      "SEO",
+      "Web",
+      "Marketing"
+    ],
+    "category": "Marketing",
+    "coverImage": "/images/seo.jpg",
+    "isFeatured": true,
+    "views": 210,
+    "owner": "64b7a6d7fa2b8f001e3b1008",
+    "createdAt": "2025-06-11T15:30:00.000Z"
+  },
+  {
+    "title": "Using Tailwind CSS",
+    "slug": "using-tailwind-css",
+    "content": "Tailwind CSS is a utility-first CSS framework.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Simplify styling with Tailwind CSS.","author": "David Lin","tags": [
+      "Tailwind",
+      "CSS",
+      "UI"
+    ],
+    "category": "Frontend",
+    "coverImage": "/images/tailwind.jpg",
+    "isFeatured": false,
+    "views": 120,
+    "owner": "64b7a6d7fa2b8f001e3b1009",
+    "createdAt": "2025-06-10T14:20:00.000Z"
+  },
+  {
+    "title": "Async JavaScript Explained",
+    "slug": "async-javascript-explained",
+    "content": "Understand asynchronous operations in JavaScript with promises and async/await.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Master async programming in JS.","author": "Ritika Gupta","tags": [
+      "JavaScript",
+      "Async",
+      "Promises"
+    ],
+    "category": "Programming",
+    "coverImage": "/images/async.jpg",
+    "isFeatured": false,
+    "views": 130,
+    "owner": "64b7a6d7fa2b8f001e3b1010",
+    "createdAt": "2025-06-09T10:05:00.000Z"
+  },
+  {
+    "title": "MongoDB Query Basics",
+    "slug": "mongodb-query-basics",
+    "content": "MongoDB provides powerful query capabilities for document-based databases.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Learn to perform basic queries in MongoDB.","author": "Anita Rao","tags": [
+      "MongoDB",
+      "Database"
+    ],
+    "category": "Database",
+    "coverImage": "/images/mongo.jpg",
+    "isFeatured": false,
+    "views": 70,
+    "owner": "64b7a6d7fa2b8f001e3b1011",
+    "createdAt": "2025-06-08T09:15:00.000Z"
+  },
+  {
+    "title": "Responsive Web Design",
+    "slug": "responsive-web-design",
+    "content": "Responsive design ensures your site looks good on all devices.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Make your web apps responsive and mobile-friendly.","author": "Carlos Mendes","tags": [
+      "Responsive",
+      "Design",
+      "CSS"
+    ],
+    "category": "Design",
+    "coverImage": "/images/responsive.jpg",
+    "isFeatured": false,
+    "views": 90,
+    "owner": "64b7a6d7fa2b8f001e3b1012",
+    "createdAt": "2025-06-07T18:00:00.000Z"
+  },
+  {
+    "title": "Intro to TypeScript",
+    "slug": "intro-to-typescript",
+    "content": "TypeScript adds types to JavaScript for safer code.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Start using TypeScript with your JS projects.","author": "Ravi Mehta","tags": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "category": "Programming",
+    "coverImage": "/images/typescript.jpg",
+    "isFeatured": false,
+    "views": 85,
+    "owner": "64b7a6d7fa2b8f001e3b1013",
+    "createdAt": "2025-06-06T12:40:00.000Z"
+  },
+  {
+    "title": "Dark Mode in CSS",
+    "slug": "dark-mode-in-css",
+    "content": "Add dark mode to your website using CSS custom properties. 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!","excerpt": "Support dark mode using modern CSS.","author": "Komal Singh","tags": [
+      "CSS",
+      "Dark Mode"
+    ],
+    "category": "Frontend",
+    "coverImage": "/images/darkmode.jpg",
+    "isFeatured": false,
+    "views": 77,
+    "owner": "64b7a6d7fa2b8f001e3b1014",
+    "createdAt": "2025-06-05T08:30:00.000Z"
+  },
+  {
+    "title": "React Hooks Overview",
+    "slug": "react-hooks-overview",
+    "content": "Hooks let you use state and other React features without writing a class.import React from 'react'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vero veritatis harum unde tenetur. A quae asperiores nemo facilis expedita numquam blanditiis dolorem suscipit accusamus quod error ullam doloribus officiis iure, nobis, delectus veniam rerum excepturi vero cupiditate corrupti neque! Dolorem at, necessitatibus dolores soluta ex iusto fuga quasi pariatur illum animi facere neque illo, sint provident placeat explicabo ea eaque tempora repellendus? Repellat, quo laudantium nobis voluptatibus ex voluptatum, dolorem repudiandae amet facilis quam cumque, ipsa rem officia! Quisquam dolores amet mollitia nulla quia veritatis tempora minus reprehenderit? Non corrupti sit ad commodi eum, quia ipsum minus voluptas nulla dolore unde velit inventore molestias veritatis omnis exercitationem quisquam soluta neque! Autem corporis quia pariatur rerum cupiditate alias similique neque eum esse. Sunt quod alias consequuntur aliquam perspiciatis odio in, accusamus commodi nobis maxime aut modi nam cupiditate vitae explicabo quos placeat dolorem animi. Labore error veniam commodi excepturi, vero nisi quae molestias ratione sequi doloribus molestiae beatae maxime architecto fugiat accusantium et quas, veritatis blanditiis voluptate? Facere reiciendis explicabo quidem nulla cumque itaque, iusto illo quis adipisci, qui ratione. Blanditiis repudiandae, aspernatur sequi nesciunt at, dolore quod tempore perspiciatis corporis nulla ex illum. Ea soluta iure adipisci blanditiis facere corporis cum sit delectus fugit dolores, non nulla ratione vitae dolorum id optio sequi eveniet, quae deleniti itaque suscipit odio? Nam quidem culpa inventore, animi sequi odio similique molestiae voluptate, alias expedita natus maiores!",
+    "excerpt": "A guide to useEffect, useState, and more.",
+    "author": "Mehul Joshi",
+    "tags": [
+      "React",
+      "Hooks"
+    ],
+    "category": "Frontend",
+    "coverImage": "/images/hooks.jpg",
+    "isFeatured": true,
+    "views": 160,
+    "owner": "64b7a6d7fa2b8f001e3b1015",
+    "createdAt": "2025-06-04T11:00:00.000Z"
+  }
+]
+
+
+{
+  comment: [
+    {
+      _id: 123,
+      content: "comment message will be display here",
+      blog_id: 45,
+      owner: 12
+      replies: [
+        {
+          id: 1,
+          comment: "reply of comment is here";
+          comment_id: 123
+          owner: 14,
+          likes: [
+            {
+              id: 1
+              owner: 13
+              commentid: 1
+            },
+            {
+              id: 2
+              owner: 12
+              commentid: 1
+            }
+            {
+              id: 2
+              owner: 12
+              commentid: 1
+            }
+          ]
+        },
+        {
+          id: 2,
+          comment: "reply of comment is here";
+          comment_id: 123
+          owner: 14,
+        }
+      ]
+      likes:[
+         {
+              id: 1
+              likedBy: 13
+              commentid: 1
+            },
+      ]
+    }
+  ]
+}
